@@ -1,4 +1,4 @@
-# Naloga: Čarobna 8-ka 🎱
+"""# Naloga: Čarobna 8-ka 🎱
 
 
 ## 1. Cilj
@@ -31,4 +31,5 @@ Prejšna vaja (LoveCalc) https://github.com/Pfyber/uvodFlaskSync
 - Če vsebuje **“denar”** → “Burek only.”  
 - Če vsebuje **“profesor”** → “F speedrun.”  
 - Če se vprašanje konča z **“!”** → “Ne kriči.”  
+"""
 
